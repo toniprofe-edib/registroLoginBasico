@@ -1,6 +1,12 @@
 /* CSS MEDIA QUERY */
 /* **************************************************************** */
 
+
+/* VARIABLES */
+
+
+
+
 /* ****************** */
 /* *** Smartphone *** */
 @media only screen and (min-device-width: 300px) and (orientation: portrait) {
@@ -44,4 +50,4 @@
     
 }
 
-/* Pero los datos pueden canviar durante los años, por eso a utilizar Variables */
+
