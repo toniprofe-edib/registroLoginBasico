@@ -2,13 +2,34 @@
 /* **************************************************************** */
 
 /* VARIABLES */
-
+:root{
+    --margenExterno: 30px;
+    --logoAltura: 50px;
+    --longNav: 0.5;
+}
 
 
 
 /* HEADER */
+header{
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 var(--margenExterno);
+}
+    /* logo */
+    .logo{
+        height: var(--logoAltura);
+    }
 
 /* NAV */
+nav{
+    flex-grow: var(--longNav);
+
+    display: flex;
+    justify-content: space-between;
+}
 
 /* SECTION */
 

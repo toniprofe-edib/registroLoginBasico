@@ -2,9 +2,10 @@
 /* **************************************************************** */
 
 /* VARIABLES */
-
-
-
+:root{
+    --colorNegro: rgb(54, 54, 54);
+    --colorRojo: #900e0e;
+}
 
 
 /* COLORES en puntos concretos */
