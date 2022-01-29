@@ -1,6 +1,6 @@
-# plantillaFlexGrid
+# Desde la PlantillaFlexGrid
 
-### Plantilla pensada para hacer un Fork
+### Un menú de Registro y Login Básico
 (Concepto Plantilla/Template)
 
 __Tecnología integrada__
